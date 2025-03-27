@@ -108,7 +108,7 @@ We observe the following issues with these schemes:
 
 - Users often fail to distinguish Lost/Reinstalled Device events from
   Machine-in-the-Middle (MITM) attacks, see for example `When Signal hits the Fan
-  <https://eurousec.secuso.org/2016/presentations/WhenSignalHitsFan.pdf>`_.
+  <https://www.ndss-symposium.org/ndss2016/eurousec-2016/when-signal-hits-fan-usability-and-security-state-art-secure-mobile-messaging/>`_.
 
 
 Integrating key verification with general workflows
