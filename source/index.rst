@@ -3,6 +3,16 @@
 SecureJoin: Protecting chat messaging against network adversaries
 =================================================================
 
+.. important::
+
+   **This document is severely outdated.**
+
+   Delta Chat still uses the basic protocol described here,
+   but no longer to verify the binding between an e-mail address and a key.
+   The `Delta Chat V2 release <https://delta.chat/en/2025-08-04-encryption-v2>`_
+   of July 2025 introduced key contacts, where a contact *is* a key,
+   so there is no binding left to verify.
+
 SecureJoin protocols provide a usable model for message end-to-end encryption
 which is secure against attackers trying to break authenticity, confidentiality
 or integrity of messages as can occur with compromised servers and networks.
